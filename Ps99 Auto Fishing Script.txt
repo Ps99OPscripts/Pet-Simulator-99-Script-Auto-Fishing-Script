@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ps99OPscripts/Ps99-Op-Fishing-Script/main/Ps99%20Fishing%20Script.lua"))()
